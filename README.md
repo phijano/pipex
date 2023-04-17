@@ -2,7 +2,7 @@
 
 Learning proyect - 42 Málaga
 
-##Description
+## Description
 
 This project seeks to delve a little into two concepts: redirects and pipes.
 
